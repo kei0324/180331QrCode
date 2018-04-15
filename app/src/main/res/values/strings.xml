@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">180331QrCode</string>
+    <string name="qr">QRコード</string>
+    <string name="qr_start_capture">QRコードのスキャン画面を起動</string>
+    <string name="qr_result">address</string>
+    <string name="qr_create">EDITTEXTの入力内容でQRコードを作成</string>
+</resources>
